@@ -2,6 +2,8 @@
 void setup()
 {
 	
+	Farm a = new Farm();
+	a.animalSounds();
 }
 	/*
 	Cow c = new Cow("cow", "moo");   
@@ -12,4 +14,4 @@ void setup()
 
     Pig p = new Pig("pig", "oink");   
     System.out.println(p.getType() + " goes " + p.getSound());  //your variable declarations here
-}
+	*/
